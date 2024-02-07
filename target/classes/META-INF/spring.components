@@ -1,0 +1,13 @@
+com.me.DAO.FilePdfDAO=org.springframework.stereotype.Component
+com.me.DAO.HealthValuesDAO=org.springframework.stereotype.Component
+com.me.DAO.MedicationDAO=org.springframework.stereotype.Component
+com.me.DAO.UserDAO=org.springframework.stereotype.Component
+com.me.controller.FileController=org.springframework.stereotype.Component
+com.me.controller.HealthController=org.springframework.stereotype.Component
+com.me.controller.MedicationController=org.springframework.stereotype.Component
+com.me.controller.UserController=org.springframework.stereotype.Component
+com.me.pojo.FilePdf=org.springframework.stereotype.Component
+com.me.pojo.HealthValues=org.springframework.stereotype.Component,javax.persistence.Table
+com.me.pojo.Medication=org.springframework.stereotype.Component
+com.me.pojo.User=org.springframework.stereotype.Component
+com.me.validator.FileValidator=org.springframework.stereotype.Component
